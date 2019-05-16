@@ -1,2 +1,2 @@
 # Parallel-programming-in-action
-Contains exercises to strengthen my parallel programming skills
+Contains exercises to strengthen my parallel programming skills.
